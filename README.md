@@ -14,8 +14,6 @@ now should an attacker get access to our dictionary/wordsource and have a functi
 
 
 
-Mute’s Algorithm is an obfuscation technique designed to resist attacks from quantum computers and high-speed brute-force methods.
-
 How It Works
 The Wordsource (Dictionary) 
 
